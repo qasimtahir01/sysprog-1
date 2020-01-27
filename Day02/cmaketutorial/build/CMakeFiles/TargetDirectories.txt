@@ -1,0 +1,6 @@
+/home/musmanali/workspace/systemprogramming/Practice02/cmaketutorial/build/CMakeFiles/rebuild_cache.dir
+/home/musmanali/workspace/systemprogramming/Practice02/cmaketutorial/build/CMakeFiles/Tutorial.dir
+/home/musmanali/workspace/systemprogramming/Practice02/cmaketutorial/build/CMakeFiles/edit_cache.dir
+/home/musmanali/workspace/systemprogramming/Practice02/cmaketutorial/build/MathFunctions/CMakeFiles/rebuild_cache.dir
+/home/musmanali/workspace/systemprogramming/Practice02/cmaketutorial/build/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/musmanali/workspace/systemprogramming/Practice02/cmaketutorial/build/MathFunctions/CMakeFiles/edit_cache.dir
